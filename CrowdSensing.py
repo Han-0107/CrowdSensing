@@ -10,6 +10,7 @@ from constant import si_ability
 from constant import si_ability_var
 from constant import num_of_system
 
+
 # 第一个实验：工人数，北选区的工人数 100, 30
 # 第二个实验：任务次数/协作都均值[50:550:50]11组  中间值300   [0.6:1.2:0.2] 5组 中间值1
 # 第三个实验：任务次数/协作度方差[50:550:50]11组  中间值300   [1:3:0.5]5组  中间值2
